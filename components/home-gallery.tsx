@@ -10,23 +10,23 @@ export default function HomeGallery() {
 
   const images = [
     {
-      src: "/images/ROS09257_8_9.jpg",
+      src: "https://hotel.qubitkurv.com/images/ROS08996_7_8.jpg",
       alt: "The Pearl Hotel Exterior",
     },
     {
-      src: "/images/pearlspa.jpg",
+      src: "https://hotel.qubitkurv.com/images/pearlspa.jpg",
       alt: "The Pearl Hotel Spa",
     },
     {
-      src: "/images/pearlrestraunt.jpg",
+      src: "https://hotel.qubitkurv.com/images/pearlrestraunt.jpg",
       alt: "The Pearl Hotel Restaurant",
     },
     {
-      src: "/images/ROS08987_8_9.jpg",
+      src: "https://hotel.qubitkurv.com/images/ROS08672_3_4.jpg",
       alt: "The Pearl Hotel Room",
     },
     {
-      src: "/images/pearlpool.jpg",
+      src: "https://hotel.qubitkurv.com/images/pearlpool.jpg",
       alt: "The Pearl Hotel Pool",
     },
   ]

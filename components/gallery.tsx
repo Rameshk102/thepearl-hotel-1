@@ -18,7 +18,7 @@ export default function RoomSlider() {
   // Sample gallery images - replace with your actual data
   const galleryImages = [
     {
-      src: "/images/ROS08981_2_3.jpg?height=750&width=1000&text=Luxury+Suite",
+      src: "https://hotel.qubitkurv.com/images/ROS08996_7_8.jpg?height=750&width=1000&text=Luxury+Suite",
       alt: "Luxury Suite",
       caption: "Luxury Suite",
     },
